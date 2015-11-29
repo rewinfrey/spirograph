@@ -1,7 +1,7 @@
 # Spirograph
 
-This repository is code based on [Python Playground's](https://www.nostarch.com/pythonplayground) and is not original.
-Created as part of personal Python studies and is free to use in any manner.
+This repository is code based on [Python Playground's](https://www.nostarch.com/pythonplayground) spirograph chapter and is not original.
+Created to track my personal Python studies and is free to use as per the MIT license.
 
 Copyright © 2015 Rick Winfrey
 
